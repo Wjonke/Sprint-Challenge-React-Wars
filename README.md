@@ -20,17 +20,45 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 In this challenge, create a web page that presents a styled list of Star Wars characters. Being able to render out data to a web page is a large part of what JavaScript developers do, this challenge assesses your ability to achieve such a task.
 
+
+
+
+
 ## Self-Study/Essay Questions
 
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager.
 
+
+
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
+
+React is a JS library that allows us to modify a shadow DOM, then rendering only the changes to state into the actual DOM. Greatly impoving the functionality and speed of data. solves the problem of handling rapily changing data.
+
 
 - [ ] What does it mean to _think_ in react?
 
+That refers to how the data passes through the app with props and state, You would change youre way of thinking to reflect these principles.
+
+
+
 - [ ] Describe state.
 
+State is the data that is ready to render at this moment
+
+
+
 - [ ] Describe props.
+
+Props is the vehicle through which state travels through the app and data is shared between components
+
+
+
+
+
+
+
+
+
 
 ## Project Set Up
 

@@ -10,7 +10,7 @@ it('renders without crashing', () => {
 });
 
 
-describe('<App />', () => {
+ describe('<App />', () => {
   it('should match snapshot', () => {
     const tree = renderer.create(<App />).toJSON();
 
